@@ -1,0 +1,1 @@
+{"$schema":"https://shadcn.com/schema.json","style":"new-york","baseColor":"slate","cssVariables":true,"rsc":true,"tsx":true,"tailwindConfig":"tailwind.config.ts","utils":"@/lib/utils"}
