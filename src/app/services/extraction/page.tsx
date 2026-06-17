@@ -65,7 +65,7 @@ export default function ExtractionPage() {
             <motion.div initial={{ opacity: 0, x: -30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
               <span className="text-[#2A7F7F] font-semibold">Dental Services</span>
               <h1 className="text-4xl md:text-5xl font-bold text-[#1c1c1c] mb-4 font-serif">Tooth Extraction</h1>
-              <p className="text-xl text-[#2A7F7F] font-medium mb-6">Kutoa Mino</p>
+              <p className="text-xl text-[#2A7F7F] font-medium mb-6">Kutoa Meno</p>
               <p className="text-gray-600 text-lg mb-8">
                 Safe and painless tooth removal services. Our experienced oral surgeons ensure
                 comfortable procedures with minimal recovery time.

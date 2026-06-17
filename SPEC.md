@@ -204,8 +204,8 @@
 ## 5. Page-Specific Content
 
 ### Homepage Hero
-- **Swahili Headline:** "Fika Kwa Simu Thabiti - MGONJWA MWASI" (Wait, this should be professional) → "MGONJWA MWASI - Daktari wa Mino"
-- **Better Swahili Headline:** "MGONJWA MWASI - Daktari wa Mino" (Your Trusted Dental Care)
+- **Swahili Headline:** "Fika Kwa Simu Thabiti - MGONJWA MWASI" (Wait, this should be professional) → "MGONJWA MWASI - Daktari wa Meno"
+- **Better Swahili Headline:** "MGONJWA MWASI - Daktari wa Meno" (Your Trusted Dental Care)
 - **English Subtext:** "Your trusted dental clinic in Mombasa. Professional care for the whole family - men, women, and children."
 
 ### Services & Pricing:

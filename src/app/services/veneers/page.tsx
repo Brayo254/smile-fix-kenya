@@ -68,7 +68,7 @@ export default function VeneersPage() {
             >
               <span className="text-[#2A7F7F] font-semibold">Dental Services</span>
               <h1 className="text-4xl md:text-5xl font-bold text-[#1c1c1c] mb-4 font-serif">Dental Veneers</h1>
-              <p className="text-xl text-[#2A7F7F] font-medium mb-6">Veneers za Mino</p>
+              <p className="text-xl text-[#2A7F7F] font-medium mb-6">Veneers za Meno</p>
               <p className="text-gray-600 text-lg mb-8">
                 Transform your smile with custom porcelain or composite veneers.
                 Achieve a perfect, natural-looking smile you've always wanted.

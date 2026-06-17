@@ -29,7 +29,7 @@ export const services = [
   {
     id: 'checkup',
     name: 'Dental Check-up',
-    nameSwahili: 'Uchunguzi wa Mino',
+    nameSwahili: 'Uchunguzi wa Meno',
     shortDescription: 'Comprehensive oral examination and cleaning',
     shortDescriptionSwahili: 'Uchunguzi wa kina wa mimea na usafi',
     priceRange: 'KES 2,000 - 3,500',
@@ -38,7 +38,7 @@ export const services = [
   {
     id: 'veneers',
     name: 'Dental Veneers',
-    nameSwahili: 'Veneers za Mino',
+    nameSwahili: 'Veneers za Meno',
     shortDescription: 'Custom porcelain veneers for a perfect smile',
     shortDescriptionSwahili: 'Veneers za porcelaini kwa ulaji bora',
     priceRange: 'KES 15,000 - 45,000',
@@ -47,7 +47,7 @@ export const services = [
   {
     id: 'root-canal',
     name: 'Root Canal',
-    nameSwahili: 'Mfereji wa Mino',
+    nameSwahili: 'Mfereji wa Meno',
     shortDescription: 'Save infected teeth with root canal therapy',
     shortDescriptionSwahili: 'okoa meno yaliyoambukizwa na matibabu ya mfereji',
     priceRange: 'KES 8,000 - 15,000',
@@ -56,7 +56,7 @@ export const services = [
   {
     id: 'extraction',
     name: 'Tooth Extraction',
-    nameSwahili: 'Kutoa Mino',
+    nameSwahili: 'Kutoa Meno',
     shortDescription: 'Safe and painless tooth removal services',
     shortDescriptionSwahili: 'Huduma za kutoa meno salama na bila maumivu',
     priceRange: 'KES 3,000 - 8,000',

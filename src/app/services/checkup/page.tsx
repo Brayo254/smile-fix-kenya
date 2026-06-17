@@ -71,7 +71,7 @@ export default function CheckupPage() {
               <h1 className="text-4xl md:text-5xl font-bold text-[#1c1c1c] mb-4 font-serif">
                 Dental Check-up
               </h1>
-              <p className="text-xl text-[#2A7F7F] font-medium mb-6">Uchunguzi wa Mino</p>
+              <p className="text-xl text-[#2A7F7F] font-medium mb-6">Uchunguzi wa Meno</p>
               <p className="text-gray-600 text-lg mb-8">
                 Comprehensive oral examination and cleaning to maintain your dental health.
                 Regular check-ups help prevent problems before they start.
